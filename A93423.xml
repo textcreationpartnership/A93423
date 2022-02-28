@@ -1,0 +1,151 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A few words unto a particular people</title>
+            <author>Smith, William, d. 1673.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1669</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93423</idno>
+            <idno type="STC">Wing S4302</idno>
+            <idno type="STC">ESTC R184392</idno>
+            <idno type="EEBO-CITATION">42475205</idno>
+            <idno type="OCLC">ocm 42475205</idno>
+            <idno type="VID">151359</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93423)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151359)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2256:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A few words unto a particular people</title>
+                  <author>Smith, William, d. 1673.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1669]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place of publication from Wing (2nd ed.).</note>
+                  <note>Dated on p. 8: Nottingham, the 3d Moneth, 1669.</note>
+                  <note>Reproduction of original in: Friends' Library (London, England)</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Doctrines.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:151359:1" rendition="simple:additions"/>
+            <head>A Few VVords unto a PARTICULAR PEOPLE.</head>
+            <p>THe People unto whom this following matter relateth, are ſuch as holdeth an Inward Principle, but in practice do not anſwer the true Light; and many of them formerly met together at <hi>Nottingham</hi> Caſtle, and were generally known by the name of the Caſtle Company; and I have lately had to do with ſome of them in a private way of writing, and the Papers that I received were ſubſcribed by <hi>Rice Joanes, Anthony Hutchinſon, Fortune Burroughs, Iſaac Baker, Elizabeth Parſons,</hi> and <hi>John Lau<g ref="char:EOLhyphen"/>ſon;</hi> and in my laſt I did enjoyn them to publiſh what had paſſed between us, by cauſing it to be printed (with what more they had to ſay) but ſince I have not heard any thing of it; and though theſe people are found oppoſite to the principle and practice of the People called <hi>Quakers;</hi> yet they have never manifeſt wherein they err or fall ſhort of Truth in the general; and ſome of theſe people that once had a ſence of Truth, as in the Light it was manifeſt, but they did not abide in the fear and Counſel of God, and ſo loſt the right way in the beginning, and then turned againſt the Teſtimony of the Power, and fled the Croſs, and many were ſimply betrayed by giving up their belief to the Doctrine then propounded; but the Lord hath gathered ſome from amongſt them, who in the Truth are a good ſavor to the honour of it.</p>
+            <p>Now theſe people have taken up a belief that they may keep their inward unto God, and yield their bodies to comply with outward things, and in that belief they take liberty in common Cuſtoms and Faſhions, as if ſuch things were of no concernment in matters
+<pb n="2" facs="tcp:151359:2"/>of Faith and Conſcience, and that doth clearly evidence that their inward Principle is not of God; for where the Spirit of God is the inward Principle, it diſpoſes the body by its own Power, and there<g ref="char:EOLhyphen"/>by the Converſation comes to be holy, and without blame, and bo<g ref="char:EOLhyphen"/>dy, ſoul and ſpirit glorifieth God, as being his; (mark) the body, ſoul and ſpirit are all to be diſpoſed in a right order to Gods glory, and if the body comply with outward things, and the mind other<g ref="char:EOLhyphen"/>wiſe reſerved, it is a mental reſervation; or if the mind comply with the body in ſuch things as are manifeſtly contrary to the true inward principle, then the true principle is tranſgreſſed, and it is altogether againſt the outward ſufferings of the Prophets, Chriſt and the Apoſtles, who ſuffere<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> for the Teſtimony of Truth and a good Conſcience, and their bodies ſuffered for being faith<g ref="char:EOLhyphen"/>full to their inward principle, and they did not ſeek a way to eſcape ſufferings, by reſerving their inward principle, and yielding their bodies to comply with outward things, but they teſtified to the truth of their inward principle, and againſt ſuch things as were contrary to it, and ſo they exerciſed a Conſcience void of offence towards God and man; and if the inward principle of theſe peo<g ref="char:EOLhyphen"/>ple was that Spirit which teſtified in the Prophets, Chriſt and the Apoſtles, then they could not live in ſuch things as the Prophets, Chriſt and the Apoſtles reproved; and as they live in ſuch things, it is manifeſt that they diſpoſe themſelves in their liberty for their own pleaſure and ſecurity; and the ſpirit which they are under perſwades them to be reſerved in their inwards, and then giveth a ſeeming ſatisfaction and peace in what is done, and the generallity of theſe people are much to be pittied, who have given up them<g ref="char:EOLhyphen"/>ſelves to believe ſuch an error with confidence; for neither their foundation nor building are of God, but they have layed a founda<g ref="char:EOLhyphen"/>tion in the earthly wiſdom, and builds upon it with their own reaſoning, and ſo are not in Paradiſe, where man was placed in his innocency, but poſſeſſeth <hi>Cain</hi>'s City in the Land of <hi>Nod.</hi>
+            </p>
+            <p>Now in the beginning the wiſe Creator made all things good, and he formed man of the Duſt of the Ground, and into his no<g ref="char:EOLhyphen"/>ſtrils he breathed the breath of life, and man became a living Soul, and the form was his Body, which as a veſſel was prepared to contain the excellency of that pure living breath, and as man ſtood in communion with the Light, Power and Wiſdom of his
+<pb n="3" facs="tcp:151359:2"/>Creator, his outward Form, Veſſel or Body was equally qualified with the Virtues and Graces of the ſame Nature, and ſo he was the Image of God by creation, and his outward Body was ordered by his inward Principle; but when he tranſgreſſed his inward Prin<g ref="char:EOLhyphen"/>ciple, his outward Body loſt the qualifications of the Vertues and Graces that were in it, and there he died, and then the outward Body became tainted with qualifications of darkneſs, and in the Loyn of the fallen Poſterity darkneſs ruleth the Body, and ſo the Body is ordered by another ſpirit then what ordered in the begin<g ref="char:EOLhyphen"/>ning, and in that ſpirit is the fleſhly liberty of the Body, and that is a degeneration from the Spirit by which the Body was ordered before tranſgreſſion.</p>
+            <p>And you that are concerned in this matter may do well to conſi<g ref="char:EOLhyphen"/>der your own bodies; for however it was in times paſt, as to out<g ref="char:EOLhyphen"/>ward bodies, yet you cannot deny your own; and do you not un<g ref="char:EOLhyphen"/>derſtand generation, and by what generation is maintained? and ſeeing you have outward bodies, it concerns you to mind what ſpirit governs them, and what you yield your bodies to comply withal; for it is certain, that the body which complies with com<g ref="char:EOLhyphen"/>mon cuſtoms, faſhions and vanities, is not governed by the true Spirit; and that your bodies do ſo comply is evident by your pra<g ref="char:EOLhyphen"/>ctice; and will you deny the body to be the workmanſhip of God? and if it be his workmanſhip, then is it not concerned to ſerve and honour him? and doth it not ſerve and honour him, when by his Spirit it is governed? and doth it not the contrary when it com<g ref="char:EOLhyphen"/>plies with ſuch things as are contrary to his Spirit? and ſo the body is concerned in matters of Faith and Conſcience, as by the true Spirit it is ordered and governed, becauſe in that ſtate it ſtandeth in unity with the Light, Power, Life and Wiſdom which is the Heavenly Treaſure, and ſo the Apoſtle teſtified of the Trea<g ref="char:EOLhyphen"/>ſure in the earthen veſſel; and what was the earthen veſſel in which they had the Treaſure? and did they hide the Treaſure in the earthen veſſel, that it ſhould not be known? or did they not preach it that others might believe in it, and have benefit by it? and did they not thank God who manifeſted the ſavor of his knowledge by them in every place? and ſo they did not walk in craftineſs, or handle the Word of God deceitfully, but by manifeſtation of the Truth commended themſelves to every mans Conſcience in the
+<pb n="4" facs="tcp:151359:3"/>ſight of God, for they were not aſhamed of the Goſpel, becauſe they preached not themſelves, but Chriſt Jeſus the Lord; and ſo they were in the univerſal Spirit, and communicated their Trea<g ref="char:EOLhyphen"/>ſure according to the Wiſdom they received it in, and in that their Light did ſhine before men, and their good works were ſeen, and God was glorified; and is your works wrought in the Light, to ſhine and be ſeen to God's Glory? or are they not wrought in darkneſs, by which God is diſhonoured? and if you ſay your works are wrought in charity, as being moſt agreeable to the Nature of God, and that the compliance of your bodies to cu<g ref="char:EOLhyphen"/>ſtoms and faſhions is only ſutable to what is obſerved amongſt people of the Nation; I anſwer, that if your works were wrought in that charity which is agreeable to the nature of God, then you could not yield your bodies to comply with ſuch things as are con<g ref="char:EOLhyphen"/>trary to God, and though your cuſtoms and faſhions may be ſutable to the People of the Nation, yet they are no way ſutable to the Truth, or to the People that live in it; and ſo your charity, cu<g ref="char:EOLhyphen"/>ſtoms and faſhions are only to pleaſe your ſelves, which diſpleaſeth God; and if you will ſearch your inwards with the Light, you may find Darkneſs and Death reigning; and the true Seed oppreſſed and mourning; and if you were in true charity you would regard the groans of the oppreſſed, and the afflictions of the afflicted, and not exalt your ſelves in your fleſhly liberty to encreaſe the bur<g ref="char:EOLhyphen"/>then; but <hi>Phoraoh</hi> is hard-hearted, and hath neither love nor pity, and in hardneſs he ruleth, and will not obey the Lord, and that which you ſerve and worſhip is an Idol which darkneſs hath formed in you, and being affected with it, you rejoyce in your outward liberty, as if it were allowed from a true inward ground, and you will not have the Ark of God ſet up, leſt your Idol ſhould fall be<g ref="char:EOLhyphen"/>fore it, and ſo your hearts are after your Idol, and not after the Lord, and you will not admit of reproof to come near you, but in a ſtrong confidence of the inwards, reſiſts that diſpenſation, as not belonging to you, when indeed both your liberty and confidence are reproveable, as the off-ſpring of a corrupted ſtock, and with that you keep the good Seed in bondage, and bringeth forth fruit of another nature; and what then is the inwards which you anſwer but the ſpirit of darkneſs, from which you have your liberty in com<g ref="char:EOLhyphen"/>mon cuſtoms, faſhions and vanities? for the true Light redeems out
+<pb n="5" facs="tcp:151359:3"/>of ſuch things, as it is obeyed and followed; and whilſt you live in ſuch things you walk in Darkneſs, and not in the Light, and in Darkneſs you crucifie the Lord of Life, and put him to open ſhame; for your outward converſation doth not anſwer Chriſt, as an inward principle, but you bring forth open deeds, that putteth Chriſt to open ſhame; and that is the falſe birth in its falſe liberty, and this is truth unto your conditions though ſome of you may ſtill ſay as you have done, that things come too lightly, but it is in the airy ſpirit in your ſelves that is light, and would be eaſed of the weighty power; for that ſpirit doth not like the Power ſhould deal with it, becauſe the power dealeth truly and plainly, and cannot diſſemble and flatter, and what have you done ſince you turned againſt the teſtimony of the power? have you gathered the Scattered, or have you not been ſcattering, and ſo have neither done good to your ſelves nor others? for the love which you pretend to all doth not really extend to any, but ſuch as can eſteem you, and preferr you, and in your liberty have familiarity with you; for if any faithfully reprove you in your liberty, then your ſpirit ſoon luſteth to envy; and though you pleaſe your ſelves with your pretended general love, as if it were ſo near the Nature of God, yet your love is not of him, nor from him, nor to him, but is of, and from, and to your ſelves; and ſo your love is to <hi>Eſau,</hi> and not to <hi>Jacob,</hi> and that love is contrary to the nature of God, and both your love and envy are from one ground; for you have a ſecret way to ſtrengthen your hands againſt the Son and Heir, and if you can ſtop or hinder, or draw any from the Truth, you put forth your ſtrength to do it; but how do you ſtop or hinder or draw any from vanity? you can let that alone, and have pleaſure amongſt ſuch a people; and is that the love and tenderneſs which ye have to God and his Truth? or is it not plainly manifeſt to be the contrary? it is plainly ſeen in the Light, though in darkneſs you may not ſee it; and notwithſtand<g ref="char:EOLhyphen"/>ing your ſecret working againſt the Truth, you cannot hinder Truth from proſpering, you may poſſibly ſtop or hinder ſome for joyning to it, and alſo may draw ſome unſtable minds from the pro<g ref="char:EOLhyphen"/>feſſion of it; but Truth ſprings and proſpers, and ſpreads, and is honorable, and many tender deſires that joyns unto it, comes to be ſatisfied in it; and if you had eyes to ſee, you might behold the mighty work of God by his Power, and your work profits no<g ref="char:EOLhyphen"/>thing?
+<pb n="6" facs="tcp:151359:4"/>but the natural man perceiveth not the things of God, and whilſt you look with that eye, the things of God are not perceived by you; and not perceiving the things of God, you prefer your natural work as the higheſt attainment; and indeed it is high, and as a high thing muſt fall, and then you will know that it is not the higheſt attainment of Truth, but high conceitedneſs in your fleſhly liberty and confidence, and that will be the end of your Idol.</p>
+            <p>Now if the grain that is ſown do not die it abideth alone; but if it put off its firſt body through death it quickens again, and ſo ta<g ref="char:EOLhyphen"/>keth root downwards, and then riſeth and ſpringeth upwards, by which the nature of the Seed is again manifeſt in its own body, and ſo according to the will of the Creator, there is a harmony in the Creation to further production, and in that courſe are all things revived to manifeſt the nature of their ſeed.</p>
+            <p>And you that look ſo lightly at what hath or may be mentioned concerning you, as not worth the mentioning, as in one of your Papers is expreſſed; and ſo would not be counted ſuch as joyns, and hath fellowſhip with the world; and what would you be counted in your cuſtoms, faſhions and vanities? would you be counted ſuch as are redeemed out of the world? if you would be counted ſuch, then you would be counted better then you are, and that is deceit; but time will make all things <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>anifeſt: and if you would be counted Chriſtians and Saints, then you muſt walk in the Light that ſanctifieth, and not walk in darkneſs that defileth, and where you ſay in one of your Papers, That you do not find in the Scriptures that any were called the Church of Chriſt, but ſuch as received his doctrine, then you are to prove by plain Scripture, that your faith, doctrine and practiſe are the ſame with ſuch as received Chriſt Doctrine, and were his Church.</p>
+            <p>Firſt, That your Faith, concerning the nature and manifeſtation of Chriſt, is the ſame.</p>
+            <p>Secondly, That the Doctrine which by you is held forth and maintained, is the ſame.</p>
+            <p>Thirdly, That your practiſe in Burrying, Marrying, Swearing, You to a ſingle perſon, obſerving Dayes and Times, paying Tythes, honouring Perſons, diſtinction by Titles, naming Dayes and Moneths, Feaſting, and needleſs things about Apparel, are the ſame.</p>
+            <pb n="7" facs="tcp:151359:4"/>
+            <p>Now if you cannot prove by plain Scripture that in theſe things you are the ſame with ſuch as received Chriſt's doctrine, then it muſt needs follow, that ye live after the fleſh, and not in the Spi<g ref="char:EOLhyphen"/>rit; ſo if you can make theſe things good by plain Scripture, then you may be further tried; and if you cannot, then it will plainly appear that you differ from ſuch as received Chriſt's Doctrine, and were his Church, and you cannot in honeſty deny your error; and as for the Papers, your publication is ſtill expected, as being your proper place to do it; and when things are publickly brought forth by your own hands, then your matter may either be fully anſwered, or confeſſed; and in the mean time conſider patiently, whether theſe things be not worth the mentioning, and your diligent ob<g ref="char:EOLhyphen"/>ſerving; for if ſuch of you as have any ſimplicity will be mindfull, you may come to know a more excellent Treaſure then ye have treaſured up, and a more comely Garment then ye have put on; for your treaſure is cankered, and your garment moth-eaten; and ſo you dwell with the conſumer, and not with the preſerver.</p>
+            <p>Friends, If you will own the Scriptures, you cannot deny but the Light with which Chriſt lighteth every man that comes into the world is true; and as you are come into the world, ſo a meaſure of that Light which is true is in you, and if you obey another thing, you obey that which is falſe, and ſo are guided by a falſe Principle, and that is your error wherein you reſiſt the Truth; for if you were guided with the true Light, then all your words and works would be according to the Truth, and there you would feel the Croſs to your outward liberty, and Judgment to take hold up<g ref="char:EOLhyphen"/>on the Tranſgreſſor, and ſo come to be redeemed up to God by the work of his Power, for your own wiſdom and reaſoning ſtrengthneth the Body of ſin and death, but the power maketh free in the glo<g ref="char:EOLhyphen"/>rious liberty, and there is the croſs to all fleſhly motions, and by that the Son comes to be known, and life in him; <hi>and they that have the Son have life, and they that have not the Son have not life;</hi> and ſuch are dead in treſpaſſes and ſins; and this is unto you that are ſimple-minded, for in true tenderneſs you are pitied as a people enſnared, for in a ſnare you are taken and held, and the King and Queen of <hi>Babylon</hi> triumph over you.</p>
+            <p>Oh, that ſuch of you as have been carried away with a ſtrong voice, might now hearken to his voice, who calls behind you, that
+<pb n="8" facs="tcp:151359:5"/>the Light may become your Leader and Teacher, for ſubtilty hath deceived you, and by deceiving hath power to rule over you; and if you will not hear when the Lord calleth, then when you call he will not anſwer.</p>
+            <p>Friends, it is the bread that comes done from Heaven, that ſatis<g ref="char:EOLhyphen"/>fieth the hungry, and that bread you want, and ſatisfies your ſelves with Earthly vapors, and ſo you lie ſmothered, and ſeeth not the Son of God, and that is certainly your conditions in Captivity, and by the Rivers of that Land the true birth ſitteth weeping, and cannot ſing the Lords Songs.</p>
+            <closer>
+               <dateline>Nottingham, <date>the 3d Moneth, 1669.</date>
+               </dateline>
+               <signed>Your Friend in that Love which ſeeks your Eternal good. <hi>William Smith</hi>
+               </signed>
+            </closer>
+         </div>
+         <trailer>THE END.</trailer>
+      </body>
+   </text>
+</TEI>
